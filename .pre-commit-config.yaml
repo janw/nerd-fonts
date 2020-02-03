@@ -3,3 +3,4 @@ repos:
     rev: v2.4.0
     hooks:
       - id: mixed-line-ending
+        args: [--fix=lf]
